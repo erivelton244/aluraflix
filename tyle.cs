@@ -1,2 +1,1 @@
-loading{color white
-lockgroud-color black}
+body color
